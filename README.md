@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/juscole1/js-e2e-express-server/_apis/build/status/justin-lourie-cole.js-e2e-express-server?branchName=main)](https://dev.azure.com/juscole1/js-e2e-express-server/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
